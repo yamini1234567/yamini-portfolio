@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": "12345",
+        "title": "Project Alpha",
+        "description": "This project is an innovative solution for managing tasks efficiently. It uses AI to optimize workflow.",
+        "demo": "https://github.com/yamini1234567/netflixwebsite",
+        "github": "https://github.com/yamini1234567/netflixwebsite",
+        "technologies": ["React", "Node.js", "GraphQL"],
+        "image": {
+          "url": "https://storage.googleapis.com/bucket-pattern/yam%20netflix.jpeg"
+        }
+      },
+      {
+        "id": "67890",
+        "title": "Project Beta",
+        "description": "Project Beta is a mobile app that helps users learn new languages through immersive experiences.",
+        "demo": "https://github.com/yamini1234567/cmsFabricWebsite",
+        "github": "https://github.com/yamini1234567/cmsFabricWebsite",
+        "technologies": ["Flutter", "Firebase", "REST API"],
+        "image": {
+          "url": "https://storage.googleapis.com/bucket-pattern/yam%20ecom.jpeg"
+        }
+      },
+      {
+        "id": "67891",
+        "title": "Project Beta",
+        "description": "Project Beta is a mobile app that helps users learn new languages through immersive experiences.",
+        "demo": "https://github.com/yamini1234567/shaadi",
+        "github": "https://github.com/yamini1234567/shaadi",
+        "technologies": ["Flutter", "Firebase", "REST API"],
+        "image": {
+          "url": "https://storage.googleapis.com/bucket-pattern/yam%20shadhi.jpeg"
+        }
+      },
+      {
+        "id": "67892",
+        "title": "Project Beta",
+        "description": "Project Beta is a mobile app that helps users learn new languages through immersive experiences.",
+        "demo": "https://github.com/yamini1234567/youtubewebsite",
+        "github": "https://github.com/yamini1234567/youtubewebsite",
+        "technologies": ["Flutter", "Firebase", "REST API"],
+        "image": {
+          "url": "https://storage.googleapis.com/bucket-pattern/yam%20youtube.jpeg"
+        }
+      }
+    ]
+  }
+  
